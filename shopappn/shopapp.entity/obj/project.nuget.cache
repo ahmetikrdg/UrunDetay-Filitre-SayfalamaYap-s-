@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Va75OKzGgS1euz7Ati1T7iv30ERO8Pbe8EOcBShyJMPonR4e6NeWZt5znI2FlPNJ/PVqkW3SEHIyWMAnmlaF+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmet Karadağ\\Desktop\\shopappn\\shopappn\\shopapp.entity\\shopapp.entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmet Karadağ\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ahmet Karadağ\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
